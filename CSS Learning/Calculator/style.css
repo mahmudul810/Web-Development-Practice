@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+   
 }
 
 h1{
@@ -43,7 +44,7 @@ h1{
 }
 
 .btn-style{
-    background-color: rgb(73, 19, 145);
+    background-color: rgb(90, 27, 173);
 }
 
 .btn:hover{
